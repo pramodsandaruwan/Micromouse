@@ -1,0 +1,11 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [micromouse.BomDoc]
+   Generated File[Bill of Materials-micromouse.xls]
+   Generated File[Bill of Materials-micromouse.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:07:40 PM On 2/19/2020
